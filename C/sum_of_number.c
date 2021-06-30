@@ -12,7 +12,7 @@ int main() {
         {
             remainder = n % 10;
 
-            //printf("Reversed number = %d\n", remainder);
+            //printf("remainder = %d\n", remainder);
             rev = rev * 10 + remainder;
 
             a[i]=remainder;
